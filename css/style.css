@@ -1,0 +1,38 @@
+.top-header{
+    min-height: 75px!important;
+    text-align: center;
+}
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.p-2.mb-5.shadow_custom{
+    box-shadow: 3px 8px 10px rgba(100,100, 100, 0.3)!important;
+    background-color: rgb(33, 33, 67)!important;
+}
+.phone{
+    margin: 0 auto;
+}
+.card img{
+    border: none!important;
+}
+.tiny-text{
+    font-size: 12px;
+}
+.location{
+    font-size: 14px!important;
+}
+ol.list-group{
+    display: list-item!important;
+}
+ol.list-group>li{
+    display: list-item!important;
+}
+h6.company_name{
+    padding-bottom: 0px!important;
+    margin-bottom: 0;
+}
+.footer{
+    background-color: rgb(33, 33, 67);
+    text-align: center;
+    min-height: 40px;
+    color: aliceblue;
+    padding-top: 8px;
+    margin-top: 20px;
+}

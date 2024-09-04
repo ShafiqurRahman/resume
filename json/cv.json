@@ -1,0 +1,248 @@
+{
+    "name": "Mohammad Shafiqur Rahman",
+    "contact_information" : {
+        "email": "dahukpakhi@gmail.com, shafiq_rahman81@yahoo.com",
+        "phone": "01719287625, 01717334352",
+        "address": "C/O : Md, Nasir Ali, House#2038, Road#2, Ward#2, Union: Teghoria,Thana: South Keraniganj, Keraniganj, Keraniganj, Dhaka 1310 ",
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "facebook": "https://www.facebook.com/sudhangsu.paban/",
+        "website": "https://shafiq.rahman.bdmodeltests.com/"
+    },
+    "profile": "As a stout and hard working person I want to reduce heavy work load by actively participating in respective area if given a chance to prove myself. Keen technical knowledge and standard understanding is the key of my working process.",
+    "career_summary": ["Committed and dedicated to learn any business issues.",
+        "Ability to handle pressure.",
+        "Ambitious and expects to achieve advancements.",
+        "Comfortable to work with teams.",
+        "Ability to work in a competitive and challenging work environment.",   
+        "Self motivated to gather knowledge over new technologies." 
+    ],
+    "skills": [
+        "Oracle Database","Oracle Apex","MySql","HTML5","CSS3","Bootstrap","PHP5","Laravel","WordPress","JQuery"
+    ],
+    "experiances": [
+        {
+            "position": "Software Engineer",
+            "duration": "1 Dec 2021 – 31 Dec 2023",
+            "company" : "XACTIDEA LTD",
+            "location": "Shyamoli, Dhaka, Bangladesh",
+            "area_of_expertise": [
+                "Oracle APEX", "Oracle Database"
+            ],
+            "responsibilities": [
+                "Develop HR module and implement to the clients server.",
+                "Lead HR development team to develop Oracle Application Express pages & process.",
+                "Database design & Data analysis for Attendance and Payroll Process.",
+                "Apply new features and maintain stored procedures, triggers and packages"
+            ] 
+        },
+        {
+            "position": "Software Engineer",
+            "duration": "29 Mar 2018 - 31 Mar 2020",
+            "company" : "Logic Software Ltd",
+            "location": "Gulshan, Dhaka, Bangladesh",
+            "area_of_expertise": [
+                "MySQL","Software Development", "PHP", "JavaScript","JQuery", "Oracle Database"
+            ],
+            "responsibilities": [
+                "Implement client provided mock up in the software.",
+                "Develop and Implement new business ideas provided by team leader or authority.",
+                "Create custom reports as per customer demand .",
+                "Provide customer support in inventory, commercial, approval and some other ERP module as per their need.",
+                "Implement new interface of ERP and CSS support "
+            ]
+        },
+        {
+            "position": "Web Developer",
+            "duration": "1 Apr 2017 - 25 Mar 2018",
+            "company" : "Zia Web LLC ",
+            "location": "Hickory, North Carolina, USA",
+            "area_of_expertise": [
+                "MySQL","Web Application Development", "PHP", "JavaScript","JQuery", "HTML5", "CSS3"
+            ],
+            "responsibilities": [
+                "Implement Zend Framework and create modules for project My tutors",
+                "Portfolio item upload implementation for our work item list. ",
+                "Implement Design and develop plugin for wordpress site CCM Hickory. "
+            ]
+        },
+        {
+            "position": "Software Engineer",
+            "duration": "1 Dec 2015 - 31 Mar 2017",
+            "company" : "CT Health LTD",
+            "location": "Technical Square, Mirpur, Dhaka, Bangladesh",
+            "area_of_expertise": [
+                "MySQL","Web Application Development", "PHP", "JavaScript","JQuery", "HTML5", "CSS3"
+            ],
+            "responsibilities": [
+                "Visit and gather Client's requirements of HMI software & provide technical support",
+                "Develop modules using CodeIgniter for CCD online website",
+                "Front end Design using Bootstrap & SCSS"
+            ]
+        },
+        {
+            "position": "Web Developer",
+            "duration": "1 Jun 2013 - 1 Nov 2015",
+            "company" : "Zia Web Solutions",
+            "location": "Charlotte, North Carolina, USA",
+            "area_of_expertise": [
+                "Web Design", "UX Design", "JavaScript","JQuery", "HTML5", "CSS3"
+            ],
+            "responsibilities": [
+                "Develop several component and module for clients web application",
+                "Website development with CodeIgniter Framework, WordPress and Joomla!",
+                "Develop User interface",
+                "Designing Template and Handle all Clients designing part.",
+                "Support the Developers on PHP programming",
+                "WordPress Theme Development and Plugin Development"
+            ]
+        },
+        {
+            "position": "PHP Developer & UI Designer",
+            "duration": "26 Oct 2012 - 30 Jun 2013",
+            "company" : "Wempro",
+            "location": "Khilgaon, Dhaka, Bangladesh",
+            "area_of_expertise": [
+                "Web Design", "UX Design", "JavaScript","JQuery", "HTML5", "CSS3"
+            ],
+            "responsibilities": [
+                "Maintain and develop raw php sites",
+                "Website design from PSD to HTML",
+                "Drupal theme development and admin management",
+                "On page SEO, off page SEO and link building"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts (BA)",
+            "institution": "University of Chittagong",
+            "location": "Chittagong, Bangladesh",
+            "passing_year": "2010",
+            "duration": "4 years",
+            "result": "CGPA:3.26 out of 4",
+            "contcentration_major": "Bengali Literature"
+        },
+        {
+            "degree": "Web Presence Solution & Implementation (Diploma)",
+            "institution": "IDB-BISEW",
+            "location": "Dhaka, Bangladesh",
+            "passing_year": "2012",
+            "duration": "1070 hours",
+            "result": "Completed Successfully",
+            "contcentration_major": "PHP, CodeIgniter, Joomla, JQuery, Ajax, HTML5, CSS3"
+        },
+        {
+            "degree": "Higher Secondary School Certificate (HSC)",
+            "institution": "Narsingdi Govt. College ",
+            "location": "Narsingdi, Bangladesh",
+            "passing_year": "2003",
+            "duration": "2 years",
+            "result": "CGPA:2.9 out of 5",
+            "contcentration_major": "Humanities"
+        },
+        {
+            "degree": "Secondary School Certificate (SSC)",
+            "institution": "Brahmondi K. K. M. Govt. High School",
+            "location": "Narsingdi, Bangladesh",
+            "passing_year": "1998",
+            "duration": "10 years",
+            "result": "First Division, Marks :60% ",
+            "contcentration_major": "Science"
+        }
+    ],
+    "training": [
+        {
+            "training_title": "Web Presence Solutions and Implementation ",
+            "institution": "IDB-BISEW IT Scholarship Project -> (Genuity System LTD)",
+            "location": "Agargaon, Dhaka, Bangladesh",
+            "passing_year": "2011",
+            "duration": "13 Months",
+            "result": "Completed Successfully",
+            "contcentration_major": "PHP, .Net, Joomla!, CodeIgniter, Ajax, JavaScript, HTML, CSS, JQuery, ExtJS, Flash, XML, Photoshop, Flash, Illustrator, Office Productivity "
+        },
+        {
+            "training_title": "Diploma in Graphics Design",
+            "institution": "Aptech Computer Ltd.",
+            "location": "Lalkhan Bazar, Chittagong, Bangladesh",
+            "passing_year": "2009",
+            "duration": "3 Months",
+            "result": "Completed Successfully",
+            "contcentration_major": "Adobe Photoshop, Adobe Illustrator"
+        }
+    ],
+    "career_application_information" : {
+        "looking_for": "Top Level Job",
+        "available_for": "Full Time",
+        "present_salary": "Tk. 38000",
+        "expected_salary": "Tk. 60000",
+        "preferred_job_category": "Engineer/Architect,IT/Telecommunication,Design/Creative", 
+        "preferred_district": "Anywhere in Bangladesh" 
+    },
+    "urls" : [
+        "http://ccmhickory.com/", 
+        "https://www.ziawebllc.com/ ",
+        "http://pcc-badas.org/",
+        "https://baileysglen.com/",
+        "https://cthealth-bd.com/",
+        "http://www.valeriasalon.com",
+        "http://www.eliteprofessionalclean.com"
+    ],
+    "extra_curriculler_activities" : [
+        "Traveling, Reading Blogs, Newspapers, Magazines etc.", 
+        "Lead my team on the way to Kewkradong Journey on 2006", 
+        "Arrange the largest Study tour of my Department Of Bengali that was held on 2008 in Bashkhali Echo Park, Chittagong.", 
+        "Traveling across the country, Hill tracking, making new friends to extend network, Playing Football, cricket, Badminton, Table Tennis & Cheese Board."
+    ],
+    "language_skills": [
+        {
+            "languages": "bangla",
+            "reading": "high",
+            "writing": "high",
+            "speaking": "high"
+        },
+        {
+            "languages": "english",
+            "reading": "high",
+            "writing": "high",
+            "speaking": "high"
+        },
+        {
+            "languages": "hindi",
+            "reading": "",
+            "writing": "",
+            "speaking": "Medium"
+        }
+    ],
+    "personal_details":
+        {
+            "fathers_name": "Mohammad Siddiqur Rahman",
+            "mothers_Name": "Shahnaz Begum",
+            "date_of_birth": "12 Apr 1983 ",
+            "gender" : "Male",
+            "marital_status": "Married",
+            "nationality": "Bangladeshis",
+            "religion": "Islam",
+            "permanent_address": "C/O Late. Mohammad Siddiqur Rahman, 124, Valanagar, , 1602., Narshingdi College, Narsingdi Sadar, Narsingdi 1602 ",
+            "current_location": "Dhaka",
+            "blood_group": "O+"
+        },
+    "referances": [
+        {
+            "name": "Mr. Mohammad Mamunur Rahman Sumon ",
+            "organization": "Xact Idea Ltd",
+            "designation": "CEO",
+            "address" : "15/2, Bridge Momtaz, Shyamoli, Dhaka ",
+            "mobile": "01674897784 ",
+            "Relation": "Professional", 
+            "location": "Shyamoli Squire"
+        },
+        {
+            "name": "Mohammad Ashiqur Rahman",
+            "organization": "Bangladesh Bank",
+            "designation": "Director , SME & Special Programmes Department ",
+            "address" : "15/2, Bridge Momtaz, Shyamoli, Dhaka ",
+            "mobile": "01715004451",
+            "Relation": "Eldest Brother "
+        }
+    ]
+}
