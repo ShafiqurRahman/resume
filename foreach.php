@@ -1,3 +1,4 @@
+
 <?php
 $fruits = ["mengo", "Apple", "Orange", "Banana"];
 echo "<h2> List of Fruits</h2>";
