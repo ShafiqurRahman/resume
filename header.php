@@ -25,6 +25,7 @@
                 <a class="nav-item nav-link <?= $class_name; ?> " href="about.php">About</a>
                 <a class="nav-item nav-link <?= $class_name; ?> " href="cv.php">Resume</a>
                 <a class="nav-item nav-link <?= $class_name; ?> " href="contact.php">Contact</a>
+                <a class="nav-item nav-link <?= $class_name; ?> " href="problem_solving.php">Problem Solving</a>
             </div>
         </div>
     </nav>
