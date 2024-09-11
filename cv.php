@@ -251,12 +251,12 @@ $url = explode("/",$_SERVER["REQUEST_URI"]);
                             $j=0; $i=0;
                         foreach ($resume["referances"] as $referances) : ?>
                             <?php //var_dump($referances); exit;?>
-                        <?php foreach ($referances as $key =>$referance) : ?>
-                            <tr>
-                                <td><?= ucfirst(str_replace("_", " ", $key));?></td>
-                                <td><?= $referance;?></td>
-                            </tr>
-                        <?php endforeach; ?>
+                            <?php foreach ($referances as $key =>$referance) : ?>
+                                <tr>
+                                    <td><?= ucfirst(str_replace("_", " ", $key));?></td>
+                                    <td><?= $referance;?></td>
+                                </tr>
+                            <?php endforeach; ?>
                         <?php endforeach; ?>
                     </tbody>
                 </table>
