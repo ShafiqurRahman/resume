@@ -247,16 +247,21 @@ $url = explode("/",$_SERVER["REQUEST_URI"]);
             <div class="career">
                 <table class="table table-responsive table-hover table-bordered">
                     <tbody class="tbody">
-                        <?php 
-                            $j=0; $i=0;
+                    <?php 
+                            $j=1; $i=1;
                         foreach ($resume["referances"] as $referances) : ?>
                             <?php //var_dump($referances); exit;?>
+                            <tr>
+                                <td></td>
+                                <td><strong>Referance <?= $i;?></strong></td>
+                            </tr>
                             <?php foreach ($referances as $key =>$referance) : ?>
                                 <tr>
                                     <td><?= ucfirst(str_replace("_", " ", $key));?></td>
                                     <td><?= $referance;?></td>
                                 </tr>
-                            <?php endforeach; ?>
+
+                            <?php endforeach; $i++;?>
                         <?php endforeach; ?>
                     </tbody>
                 </table>
